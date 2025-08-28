@@ -1,6 +1,6 @@
-# 000
+# 37753
 
-Reproduction for https://github.com/renovatebot/renovate/issues/000
+Reproduction for https://github.com/renovatebot/renovate/discussions/37753
 
 ## Current behavior
 
